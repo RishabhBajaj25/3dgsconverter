@@ -1,4 +1,7 @@
-# 3D Gaussian Splatting Converter
+# Rishabh's fork of 3D Gaussian Splatting Converter
+
+Added a script to convert multiple 3DGS in a folder. Usage: `bash scripts/convert_folder.bash <folder_name>`
+
 
 A tool for converting 3D Gaussian Splatting `.ply` and `.parquet` files into a format suitable for Cloud Compare and vice-versa. Enhance your point cloud editing with added functionalities like RGB coloring, density filtering, and flyer removal.
 
